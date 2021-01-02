@@ -1,0 +1,105 @@
+/*// Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+
+.for_res{
+	    margin-bottom: 9px!important;
+ }
+ #hero h2 {
+    
+    margin-bottom: 5px;
+     font-size: 14px;
+    
+}
+
+
+#hero p {
+    
+    font-size: 10px;
+      margin: 0 auto 3px auto;
+   
+}
+
+#hero .btn-get-started {
+    
+    font-size: 12px;
+   
+    padding: 10px 16px;
+  
+}
+
+.h_der h2 {
+   font-size: 16px;
+}
+
+.test_a h6 {
+    font-size: 15px;
+    
+}
+.test_a li a {
+    font-size: 11px;
+  
+}
+
+.resp{
+	    padding: 30px 0;
+}
+}
+
+/*// Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+	  .soc:last-child {
+ margin-right: 60px!important;
+}
+
+
+	#hero h2 {
+    
+    margin-bottom: 5px;
+    
+}
+
+#hero p {
+    
+    margin: 0 auto 5px auto;
+    
+}
+
+#hero .btn-get-started {
+   
+    padding: 10px 14px;
+    
+}
+}
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .soc:last-child {
+ margin-right: 60px!important;
+}
+
+
+#hero h2 {
+    
+    margin-bottom: 12px!important;
+    
+}
+
+#hero p {
+  
+    margin: 0 auto 9px auto;
+    
+}
+
+ }
+
+/*// Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+
+
+}
+
+/*// Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+
+}
